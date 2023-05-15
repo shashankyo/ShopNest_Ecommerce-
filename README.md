@@ -24,3 +24,7 @@
 
 
 ![Cart](https://user-images.githubusercontent.com/114981861/233521544-10aee879-e02f-4991-a333-1d1998af7db3.png)
+
+5.Description:
+Complete shop me project is about shop me application where we can login, signup , add products into cart and admin login. shashankyo/Text_Conversion
+
