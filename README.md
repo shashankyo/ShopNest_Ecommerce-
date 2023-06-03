@@ -21,7 +21,7 @@
 
 
 
-4.Cart
+4.Cart View
 
 
 ![Cart](https://user-images.githubusercontent.com/114981861/233521544-10aee879-e02f-4991-a333-1d1998af7db3.png)
