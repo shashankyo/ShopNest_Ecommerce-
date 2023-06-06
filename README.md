@@ -5,10 +5,6 @@
 ![register](https://user-images.githubusercontent.com/114981861/233521420-91c66e1a-41e3-4d91-b293-bfb545ba3afd.png)
 
 
-![register](https://user-images.githubusercontent.com/114981861/233521493-9e04a8ca-9017-4e64-891f-eaffb64c5ea4.png)
-
-
-
 2.Login_Page
 
 
