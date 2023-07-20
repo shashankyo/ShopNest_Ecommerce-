@@ -1,4 +1,4 @@
-# ShopNest_Ecommerce-
+# ShopNest_Ecommerce
 
 1.Register_Page
 
@@ -24,9 +24,9 @@
 
 5.Description:
 Complete shop me project is about shop me application where we can
-1.login,
-2.signup,
-3.add products into cart and
-4.admin login.
+1.Login,
+2.Signup,
+3.Add products into cart and
+4.Admin login.
 
 
