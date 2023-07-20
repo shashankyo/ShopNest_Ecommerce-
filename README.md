@@ -23,7 +23,7 @@
 ![Cart](https://user-images.githubusercontent.com/114981861/233521544-10aee879-e02f-4991-a333-1d1998af7db3.png)
 
 5.Description:
-Complete shop me project is about shop me application where we can
+Complete shop me project is about shop me application where we can:
 1.Login,
 2.Signup,
 3.Add products into cart and
