@@ -24,10 +24,9 @@
 
 5.Description:
 Complete shop me project is about shop me application where we can:
-1.Login.
-2.Signup.
-3.Add products into cart.
-4.Admin login(Alter the content).
+a.Login.
+b.Signup.
+c.Add products into cart.
+d.Admin login(Alter the content).
 
-Kindly alter the Paragraph
 
